@@ -1,0 +1,106 @@
+{
+    "jobs": [
+      {
+        "data": {
+          "slug": "200002WM",
+          "language": "en-us",
+          "languages": [
+            "en-us",
+            "es-mx"
+          ],
+          "req_id": "200002WM",
+          "title": "Hub Order Puller",
+          "description": "Position Summary The Hub Order Puller ensures maximum productivity, stocks merchandise, looks up and pulls parts, and remains compliant with company procedures in accordance to AutoZone’s expectation by Living the Pledge everyday. Position Responsibilities Ensures store tasks are completed in a timely manner on assigned shift Maintains Hub appearance and merchandising standards Maintains a safe working environment including PPE (Personal Protective Equipment) Follows company policies and loss prevention procedures Reviews condition of hard parts and feeder area and ensure there are no safety concerns Process and verify orders are pulled, staged, and accurate Ensures returns from stores during route deliveries are restocked appropriately and in a timely manner Maintains quality control accuracy and fill rate Goal of 99.0%. Utilizes ZNET to help customers locate merchandise or find suitable alternatives Ensures all incoming returns are put up in a timely Position Requirements High School Diploma or equivalent Basic knowledge of automotive parts is required Excellent communication and decision making skills Ability to lift, load, and deliver merchandise Ability to work a flexible schedule to meet the business needs, including holidays, evenings and weekend shifts",
+          "location_name": "USA #0226",
+          "street_address": "130 GREEN SPRINGS HWY",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "country": "United States",
+          "country_code": "US",
+          "postal_code": "35209",
+          "location_type": "LAT_LNG",
+          "latitude": 33.4680988,
+          "longitude": -86.8258575,
+          "categories": [
+            {
+              "name": "Stores - Hub"
+            }
+          ],
+          "tags": [
+            "Stores"
+          ],
+          "brand": "AutoZone-US",
+          "promotion_value": 0,
+          "apply_url": "https://autozone.taleo.net/careersection/AZ_External/jobapply.ftl?job=200002WM&lang=en",
+          "internal": false,
+          "searchable": true,
+          "applyable": true,
+          "li_easy_applyable": false,
+          "ats_code": "autozone-prod-taleo",
+          "meta_data": {
+            "ats": "taleo",
+            "ats_id": "200002WM",
+            "ats_instance": "autozone-prod-taleo",
+            "career_sections": [
+              "AZ_External",
+              "AZ_Stores"
+            ],
+            "client_code": "autozone",
+            "import_source": "taleo-integration",
+            "redirectOnApply": true,
+            "googlejobs": {
+              "companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/d77f4b6c-c67c-4826-9d18-491e97843edf",
+              "jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/86052164587135686",
+              "jobHash": "9d8b68d9c25d06f32be210fa30ba8788",
+              "derivedInfo": {
+                "jobCategories": [
+                  "SALES_AND_RETAIL",
+                  "MANUFACTURING_AND_WAREHOUSE"
+                ],
+                "locations": [
+                  {
+                    "latLng": {
+                      "latitude": 33.4680988,
+                      "longitude": -86.8258575
+                    },
+                    "locationType": "STREET_ADDRESS",
+                    "postalAddress": {
+                      "addressLines": [
+                        "130 Green Springs Hwy, Birmingham, AL 35209, USA"
+                      ],
+                      "administrativeArea": "AL",
+                      "languageCode": "",
+                      "locality": "Birmingham",
+                      "organization": "",
+                      "postalCode": "35209",
+                      "recipients": [
+                        
+                      ],
+                      "regionCode": "US",
+                      "revision": 0,
+                      "sortingCode": "",
+                      "sublocality": ""
+                    },
+                    "radiusInMiles": 0.00008265742998509635
+                  }
+                ]
+              },
+              "jobSummary": "Position Summary The Hub Order Puller ensures maximum productivity, stocks merchandise, looks up and pulls parts, and remains compliant with company procedures in accordance to AutoZone’s expectation by Living the Pledge everyday. Position Responsibilities Ensures store tasks are completed in a timely manner on assigned shift Maintains Hub appearance and merchandising standards Maintains a safe working environment including PPE (Personal Protective Equipment) Follows company policies and loss prevention procedures Reviews condition of hard parts and feeder area and ensure there are no safety concerns Process and verify orders are pulled, staged, and accurate Ensures returns from stores during route deliveries are restocked appropriately and in a timely manner Maintains quality control accuracy and fill rate Goal of 99.0%. Utilizes ZNET to help customers locate merchandise or find suitable alternatives Ensures all incoming returns are put up in a timely Position Requirements High School Diploma or equivalent Basic knowledge of automotive parts is required Excellent communication and decision making skills Ability to lift, load, and deliver merchandise Ability to work a flexible schedule to meet the business needs, including holidays, evenings and weekend shifts",
+              "jobTitleSnippet": "",
+              "searchTextSnippet": ""
+            },
+            "canonical_url": "https://careers.autozone.com/jobs/200002WM?lang=en-us",
+            "last_mod": "2024-02-02T07:04:18+0000",
+            "gdpr": false
+          },
+          "update_date": "2024-02-02T07:04:18+0000",
+          "create_date": "2021-07-24T22:17:49+0000",
+          "category": [
+            " Stores - Hub"
+          ],
+          "full_location": "Birmingham, Alabama",
+          "short_location": "Birmingham, Alabama"
+        }
+      }
+    ]
+  }
